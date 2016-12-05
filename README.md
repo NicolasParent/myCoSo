@@ -94,21 +94,21 @@ Now that the server’s running, visit http://127.0.0.1:8000/polls with your Web
 ## 3. Django project organisation
 
 coso/
-  coso/  
-    __init__.py  
-    settings.py  
-    urls.py  
-    wsgi.py  
-  polls/  
-    __init__.py  
-    admin.py  
-    apps.py  
-    migrations/  
-      __init__.py  
-    models.py  
-    tests.py  
-    views.py  
-  manage.py  
+ * coso/  
+  * __init__.py  
+  * settings.py  
+  * urls.py  
+  * wsgi.py  
+ * polls/  
+  * __init__.py  
+  * admin.py  
+  * apps.py  
+  * migrations/  
+   * __init__.py  
+  * models.py  
+  * tests.py  
+  * views.py  
+ * manage.py  
 
 
 These files were automatically created by Django, they are:
