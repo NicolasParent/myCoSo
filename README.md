@@ -104,7 +104,7 @@ coso/
   * admin.py  
   * apps.py  
   * migrations/  
-   * __init__.py  
+       * __init__.py  
   * models.py  
   * tests.py  
   * views.py  
