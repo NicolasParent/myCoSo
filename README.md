@@ -31,6 +31,17 @@ virtualenv is a tool to create isolated Python environments. virtualenv creates 
 
 ### 2.1. Installation
 
+### 2.1.1 Python, pip
+
+Download [Python](https://www.python.org/downloads/release/python-352/)
+
+On Windows, you will need to modify your PATH  
+To do this, go on Control Panel > System > Advanced System Settings  
+This will open a new window. Click on Environment Variable. Highlight the Path variable in the "System variables" section and click the Edit button.
+Then add the Python35 repository and Python35\Scripts on your Path.
+
+### 2.1.2 Virtualenv
+
 Install virtualenv via pip:  
 `$ pip install virtualenv`
 
