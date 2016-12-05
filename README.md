@@ -93,10 +93,10 @@ Now that the server’s running, visit http://127.0.0.1:8000/polls with your Web
 
 ## 3. Django project organisation
 
-* coso/  
-*     coso/  
-*         __init__.py  
-*         settings.py  
+coso/  
+  * coso/  
+  *       __init__.py  
+  *       settings.py  
 *         urls.py  
 *         wsgi.py  
 *     polls/  
